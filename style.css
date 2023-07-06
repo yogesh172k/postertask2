@@ -1,0 +1,212 @@
+.line9{
+    
+    text-align: left;
+    border: solid 1px;
+    margin-left: 0;
+    
+    
+}
+
+img{
+    padding: 10px;
+}
+
+i{
+    padding: 10px;
+    color: darkred;
+
+}
+#date{
+    color: black;
+    float:right;
+}
+
+#aa{
+    margin-left: 1%;
+
+}
+#bb{
+    margin-left: 1%;
+
+
+}
+#sa{
+    margin-left: 5px;
+    font-size: 100%;
+
+
+}
+
+#cc{
+    margin-left: 1%
+
+
+}
+
+caption {
+    margin-left: 1%;
+
+
+}
+
+#head{
+    background-color: darkorange;
+
+    padding: 7px;
+}
+
+.state1{
+    font-size: 20px;
+    color: darkgreen;
+    font-weight: bold;
+    margin-left: 30px;
+}
+
+.state2{
+    font-size: 20px;
+    color: darkgreen;
+    font-weight: bold;
+    margin-left: 600px;
+}
+
+.state3{
+    font-size: 20px;
+    color: darkgreen;
+    font-weight: bold;
+    margin-left: 30px;
+}
+
+.state4{
+    font-size: 20px;
+    color: darkgreen;
+    font-weight: bold;
+    margin-left: 600px;
+}
+
+.price1{
+    margin-left: 40px;
+}
+.price2{
+    margin-left: 610px;
+}
+.price3{
+    margin-left: 40px;
+}
+.price4{
+    margin-left: 610px;
+}
+
+
+
+.line1{
+    margin-right: 675px;
+
+    border: 1px solid brown;
+}
+.line2{
+    margin-left: 520px;
+    margin-top: -100px;
+    border: 1px solid brown;
+    width: 400px;
+}
+.line3{
+    margin-right: 675px;
+    border: 1px solid brown;
+}
+.line4{
+    margin-left: 525px;
+    margin-top: -100px;
+    border: 1px solid brown;
+    width: 400px;
+}
+
+.line7{
+    
+    border: 1px solid brown;
+}
+.tc{
+    color: blue;
+}
+.topic9{
+    font-size: 25px;
+    background-color: rgb(219, 20, 20);
+    color:white;
+    margin-top: -15px;
+    padding: 10px;
+    
+
+}
+
+.failyoffer{
+    padding: 5px;
+}
+
+.Familypic{
+    float:left;
+    margin-left: px;
+}
+.line8{
+    color: black;
+}
+.bottom1{
+    color:purple;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: serif;
+    padding: 5px;
+    
+}
+.bottom2{
+    color:black;
+}
+.bottom3{
+    color: black;
+    padding: -10px;
+}
+
+.copyright{
+    width: 25px;
+    height: 15px;
+    margin-left: -10px;
+}
+.area5{
+    text-align: center;
+}
+.nir{
+    text-align-last: center;
+    
+}
+
+
+
+
+.mari{
+    background-color: lightblue;
+    background-position: center;
+    width: 980px;
+    margin-left: 100px;
+}
+
+.abc{
+    border: solid 1px;
+}
+.mas{
+    border: solid 1px;
+}
+.line8{
+    border: solid 1px;
+}
+
+.honar{
+    background-color: lightgreen;
+}
+
+.plane{
+    border-radius: 50%;
+}
+.too{
+    background-color: white;
+}
+.goo{
+    margin-left: 600px;
+}
